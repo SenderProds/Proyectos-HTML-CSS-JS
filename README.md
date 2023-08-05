@@ -4,7 +4,7 @@
 
 ## Proyectos
 
-- [Proyecto 1: Juego Web](https://github.com/tuusuario/proyecto-calculadora) - Juegos de preguntas y algunos mas.
+- [Proyecto 1: Juego Web]([https://github.com/SenderProds/proyecto-calculadora](https://github.com/SenderProds/Proyectos-HTML-CSS-JS/tree/main/Project01-GAME)) - Juegos de preguntas y algunos mas.
 
 - [Proyecto 2: Calculadora Simple](https://github.com/tuusuario/portafolio-web) - Una calculadora simple para hacer operaciones simples.
 
